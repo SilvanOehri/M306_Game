@@ -1,6 +1,5 @@
 # Brainstorming for Game
 
-
 ## Game Ideas
 - Jump and run
 - 3D Game
